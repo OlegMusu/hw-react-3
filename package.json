@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://OlegMusu.github.io/hw-react-3",
+  "homepage": "https://olegmusu.github.io/hw-react-3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
